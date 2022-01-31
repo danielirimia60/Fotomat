@@ -40,7 +40,7 @@ body {
 header {
   position: fixed;
   z-index: 100;
-  width: 100%;
+  width: 100vw;
   height: 5.31rem;
   border-bottom: solid 1px #c6c1c1;
   background-color: white;
