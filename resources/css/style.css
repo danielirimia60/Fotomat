@@ -48,6 +48,7 @@ header {
 
 header .content {
   display: flex;
+  width: 100%;
   align-items: center;
   padding: 1.875rem;
   margin: 0 1.875rem;
@@ -96,6 +97,7 @@ header .icon {
 
 header .mobile {
   display: none;
+  width: 100%;
 }
 
 
