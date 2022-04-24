@@ -2,6 +2,7 @@
 
 * {
   box-sizing: border-box;
+  overflow-y: hidden;
 }
 html {
   margin: 0;
@@ -22,7 +23,6 @@ body {
 .main-content {
   position: relative;
   top: 5.3125rem; /* To offset for fixed header. */
-  overflow-y: hidden;
 }
 
 .center {
